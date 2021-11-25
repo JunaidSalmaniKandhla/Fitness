@@ -1,0 +1,24 @@
+.ab-1 {
+	background-image: url(images/about.jpg);
+	background-repeat: no-repeat;
+}
+.headings {
+	padding: 100px 0px;
+}
+.headings p{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+del {
+	color: white;
+}
+.text {
+	padding: 50px 0px;
+}
+.weare {
+	padding: 30px 0px;
+}
+.bmi img {
+	margin-bottom: 20px;
+}
